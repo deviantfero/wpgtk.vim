@@ -58,7 +58,7 @@ hi Pmenu                  ctermbg=8   ctermfg=15
 hi PmenuSel               ctermbg=14  ctermfg=0
 hi SpellBad               ctermfg=8   ctermbg=9    term=none
 hi Comment                ctermfg=4   ctermbg=0    cterm=italic
-hi MatchParen             ctermfg=0   ctermbg=14   cterm=none
+hi MatchParen             ctermfg=0   ctermbg=15   cterm=none
 hi DiffAdd				  ctermfg=0
 hi DiffDelete			  ctermfg=0
 hi DiffText				  ctermfg=0
