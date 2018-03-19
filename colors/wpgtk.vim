@@ -78,7 +78,7 @@ highlight Keyword    ctermfg=13
 highlight Conditional ctermfg=11
 highlight Number     ctermfg=12
 highlight PreProc    ctermfg=10      guifg=#ff4500
-highlight Type       ctermfg=9       cterm=italic term=none 
+highlight Type       ctermfg=13       cterm=italic term=none 
 highlight Ignore     ctermfg=0       guifg=bg
 highlight Error      ctermfg=0       ctermbg=1 guifg=White guibg=Red
 highlight Todo       ctermfg=15      ctermbg=8 guifg=Blue  guibg=Yellow
