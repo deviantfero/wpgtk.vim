@@ -64,7 +64,7 @@ hi DiffDelete			  ctermfg=0
 hi DiffText				  ctermfg=0
 hi DiffChange			  ctermfg=0
 hi YCMWarningSection      ctermfg=0  ctermbg=4
-hi Special                ctermfg=12
+hi Special                ctermfg=9
 hi WarningMsg             ctermfg=10
 hi MoreMsg                ctermfg=15
 hi Directory              ctermfg=11
@@ -76,11 +76,11 @@ highlight Identifier ctermfg=12       cterm=none guifg=#40ffff
 highlight Statement  ctermfg=10  gui=bold  guifg=#ffff60
 highlight Keyword    ctermfg=13
 highlight Conditional ctermfg=11
-highlight Number     ctermfg=13
+highlight Number     ctermfg=12
 highlight PreProc    ctermfg=10      guifg=#ff4500
-highlight Type       ctermfg=12      cterm=italic term=none 
+highlight Type       ctermfg=9       cterm=italic term=none 
 highlight Ignore     ctermfg=0       guifg=bg
-highlight Error      ctermfg=15      ctermbg=8 guifg=White guibg=Red
+highlight Error      ctermfg=0       ctermbg=1 guifg=White guibg=Red
 highlight Todo       ctermfg=15      ctermbg=8 guifg=Blue  guibg=Yellow
 highlight SignColumn ctermbg=8       ctermfg=12
 
