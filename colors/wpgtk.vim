@@ -50,7 +50,7 @@ hi StatusLineTermNC       cterm=none  ctermbg=8    ctermfg=15
 hi CursorLine             ctermbg=0   cterm=none
 hi Visual                 ctermbg=14  ctermfg=0    cterm=none
 hi CursorLineNr           ctermfg=15 ctermbg=6
-hi LineNr                 ctermfg=15  ctermbg=8
+hi LineNr                 ctermfg=7  ctermbg=8
 hi VertSplit              ctermfg=0   ctermbg=8    cterm=none
 hi Specialkey             ctermfg=13  ctermbg=0
 hi ErrorMsg               ctermfg=0   ctermbg=9
