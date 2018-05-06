@@ -69,6 +69,7 @@ hi WarningMsg             ctermfg=10
 hi MoreMsg                ctermfg=15
 hi Directory              ctermfg=11
 hi Folded                 ctermfg=15  ctermbg=8
+hi Underlined             term=underline ctermfg=12
 
 highlight Constant   cterm=none      ctermfg=11   guifg=#ffa0a0
 "highlight Number   	 term=underline ctermfg=DarkGrey                     guifg=Yellow
