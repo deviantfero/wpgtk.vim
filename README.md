@@ -11,3 +11,4 @@ Install with your favorite plugin manager or just clone to your vim dir
 # plug
 Plug 'deviantfero/wpgtk.vim'
 ```
+You can then choose from two colorschemes `wpgtk` and `wpgtkAlt`, enjoy!
