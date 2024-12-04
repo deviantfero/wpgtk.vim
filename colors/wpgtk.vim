@@ -93,9 +93,9 @@ highlight Search                    ctermfg=0      ctermbg=12  guifg=Black    gu
 highlight Float          ctermfg=14  guifg=#88AAEE
 highlight Exception      ctermfg=10 ctermbg=0 guifg=Red   guibg=White
 highlight Function       ctermfg=14
-highlight Typedef        ctermfg=10  ctermbg=8   gui=italic  guifg=White guibg=Blue
-highlight SpecialChar    ctermfg=12 ctermbg=8   guifg=Black guibg=White
-highlight Delimiter      ctermfg=15 ctermbg=8   guifg=White guibg=Black
+highlight Typedef        ctermfg=10  ctermbg=0   gui=italic  guifg=White guibg=Blue
+highlight SpecialChar    ctermfg=12 ctermbg=0   guifg=Black guibg=White
+highlight Delimiter      ctermfg=15 ctermbg=0   guifg=White guibg=Black
 highlight SpecialComment ctermfg=11 ctermbg=8   guifg=Black guibg=Green
 
 " Common groups that link to default highlighting.
